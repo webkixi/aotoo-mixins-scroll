@@ -1,0 +1,27 @@
+{
+  "name": "aotoo-mixins-scroll",
+  "version": "1.0.0",
+  "description": "mixin scroll, about Listen to the scroll event and lazyload something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webkixi/aotoo-mixins-scroll.git"
+  },
+  "keywords": [
+    "aotoo",
+    "mixins",
+    "react",
+    "scroll",
+    "lazy",
+    "lazyload",
+  ],
+  "author": "webkixi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webkixi/aotoo-mixins-scroll/issues"
+  },
+  "homepage": "https://github.com/webkixi/aotoo-mixins-scroll#readme"
+}
