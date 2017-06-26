@@ -1,6 +1,6 @@
 {
   "name": "aotoo-mixins-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mixin scroll, about Listen to the scroll event and lazyload something",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "react",
     "scroll",
     "lazy",
-    "lazyload",
+    "lazyload"
   ],
   "author": "webkixi",
   "license": "MIT",

@@ -12,7 +12,7 @@
 	* })
 	*/
 try {
-  Aotoo.extend('scroll', function(container, _opts, utile){
+  Aotoo.wrapEx('scroll', function(container, _opts, utile){
     function isWindow(c){
       return c==window||c==document||c==null||!c.tagName||/body|html/i.test(c.tagName);/*判断容器是否是window*/
     }
